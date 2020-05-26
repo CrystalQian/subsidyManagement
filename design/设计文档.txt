@@ -10,3 +10,7 @@ https://www.jianshu.com/p/2d5af4932994
 在config目录下配置config.js以实现数据库连接
 请求数据使用axios
 
+
+两种提交代码的方式：
+https连接：通道名是origin
+ssh连接：通道名是originssh
