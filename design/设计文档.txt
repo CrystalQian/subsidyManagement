@@ -13,4 +13,4 @@ https://www.jianshu.com/p/2d5af4932994
 
 两种提交代码的方式：
 https连接：通道名是origin
-ssh连接：通道名是originssh
+ssh连接：通道名是originssh ssh方法在公司一直连不上
