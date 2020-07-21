@@ -6,6 +6,7 @@ UI使用的是element-ui
 文件命名规则：首字母大写
 
 https://www.jianshu.com/p/2d5af4932994
+https://www.html.cn/qa/node-js/12688.html
 后端使用express.采用Sequelize对数据库进行增删改查操作
 在config目录下配置config.js以实现数据库连接
 请求数据使用axios
@@ -13,4 +14,4 @@ https://www.jianshu.com/p/2d5af4932994
 
 两种提交代码的方式：
 https连接：通道名是origin
-ssh连接：通道名是originssh ssh方法在公司一直连不上
+ssh连接：通道名是originssh ssh方法在公司一直连不上,8小时工作内连不上github?

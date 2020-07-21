@@ -1,0 +1,5 @@
+升级webpack3到webpack4
+需要做一些其他依赖包的升级和配置修改
+:sync修饰符，父子组件自定义事件的语法糖，自定义事件名为update:propName
+项目中新增页面显示消失就用到了这个特性:  Subsidylist.vue和Add.vue组件之间
+
